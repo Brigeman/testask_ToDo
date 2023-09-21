@@ -7,6 +7,7 @@
 1. Запустите приложение, выполните следующие команды в командной строке:
 
 git clone https://github.com/Brigeman/testask_ToDo
+
 python ToDo.py
 
 
